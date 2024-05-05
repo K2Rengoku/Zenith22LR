@@ -1,7 +1,0 @@
-- 👋 Hi, I’m @Zenith22LR
-- 👀 I’m interested in ... C, Arduino.
-- 🌱 I’m currently learning ... C, Web Development.
-- 💞️ I’m looking to collaborate on ... not sure yet. 
-- 📫 How to reach me ... no.
-- 😄 Pronouns: ... He/They
-- ⚡ Fun fact: ... I listen to limp bizkit ironically
